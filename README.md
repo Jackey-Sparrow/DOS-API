@@ -95,6 +95,20 @@ usage: ren [盘符:][路径][旧文件名] <新文件名>
 
 ```
 
+### copy -- 文件复制
+---
+
+```
+usage copy [源盘:][路径]<文件名> [目标盘:][路径]<目标文件名>
+
+1. 允许使用通配符 例如： *.* 实现多个复制
+2. 复制时，目标文件名也可以与源文件名不相同，称作“异名拷贝”，此时，目标文件名不能省略
+   copy d:\dos-api\test\aa.js d:\dos-api\test1\cc.js
+3. 复制时，还可以将几个文件合并为一个文件，称为“合并拷贝”，格式如下：
+		 copy d:\dos-api\test\aa.js+d:\dos-api\test\bb.js d:\dos-api\test1\dd.js
+
+```
+
 ### xcopy -- 目录复制
 ---
 
