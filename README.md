@@ -1,5 +1,9 @@
 # DOS-API
 
+1. [cd -- 改变当前目录](https://github.com/Jackey-Sparrow/DOS-API#1-cd----改变当前目录)
+2. [md -- 建立子目录](https://github.com/Jackey-Sparrow/DOS-API#2-md----建立子目录)
+
+
 
 ### 1 cd -- 改变当前目录
 ---
