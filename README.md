@@ -2,6 +2,14 @@
 
 1. [cd -- 改变当前目录](https://github.com/Jackey-Sparrow/DOS-API#1-cd----改变当前目录)
 2. [md -- 建立子目录](https://github.com/Jackey-Sparrow/DOS-API#2-md----建立子目录)
+3. [rd -- 删除子目录](https://github.com/Jackey-Sparrow/DOS-API#3-rd----删除子目录)
+4. [dir -- 显示磁盘目录](https://github.com/Jackey-Sparrow/DOS-API#4-dir----显示磁盘目录)
+5. [tree -- 显示磁盘目录结构](https://github.com/Jackey-Sparrow/DOS-API#5-tree----显示磁盘目录结构)
+6. [deltree -- 删除整个目录](https://github.com/Jackey-Sparrow/DOS-API#6-deltree----删除整个目录)
+7. [del -- 删除文件](https://github.com/Jackey-Sparrow/DOS-API#7-del----删除文件)
+8. [ren -- 文件改名](https://github.com/Jackey-Sparrow/DOS-API#8-ren----文件改名)
+9. [copy -- 文件复制](https://github.com/Jackey-Sparrow/DOS-API#9-copy----文件复制)
+10. [xcopy -- 目录复制](https://github.com/Jackey-Sparrow/DOS-API#10-xcopy----目录复制)
 
 
 
