@@ -59,3 +59,16 @@ usage: tree [盘符:][路径][/f][>prn]
 
 ```
 
+### deltree -- 删除整个目录
+---
+
+```
+usage: deltree [盘符:][路径]
+
+该命令可以一步将目录下面所有的文件、子文件、更下层的字幕里一并删除
+小心使用. PS： 有的系统没有deletree.exe这个文件
+
+1. deltree d:\dos-api\test
+
+```
+
