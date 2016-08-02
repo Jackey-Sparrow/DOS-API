@@ -85,3 +85,13 @@ usage del [盘符:][路径][文件名] [\p]
 
 ```
 
+### ren -- 文件改名
+---
+
+```
+usage: ren [盘符:][路径][旧文件名] <新文件名>
+
+1. ren d:\dos-api\test\aa.txt bb.js
+
+```
+
